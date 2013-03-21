@@ -1,0 +1,21 @@
+<h1>Listing testers</h1>
+<%= params[:controller] + ' - ' + params[:action] %>
+
+<table>
+  <% @testers.each do |l| %>
+  <tr>
+    <td><%= l.name %></td>
+    <td><%= l.num %></td>
+    <td><%= link_to 'xxx', l, method: :delete %></td>
+  </tr>
+  <% end %>
+</table>
+
+<br /><br /><br />
+
+
+
+<%= link_to "update", { :action => 'testajax' }, id: 'updater', :remote => true %> <br />
+<%= link_to "new", new_tester_path, id: 'new_tester', :remote => true %>
+
+<div id='testdiv'></div>

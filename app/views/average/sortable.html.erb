@@ -1,0 +1,25 @@
+<h2>Hello Ryan</h2>
+
+
+<a href="#" class="aaa">Click Me</a>
+<p class="ppp"></p>
+
+<table>
+	<% @team.each do |t| %>
+	<tr>
+		<td><%= t.team %></td>
+		<td><%= t.sport_id %></td>
+	</tr>
+	<% end %>
+</table>
+
+
+<script type="text/javascript">
+
+$('.aaa').click(function () {
+	$('.ppp').append('a');
+});
+
+
+
+</script>

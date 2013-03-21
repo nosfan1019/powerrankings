@@ -1,0 +1,16 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Sport:</b>
+  <%= @sport.sport %>
+</p>
+
+<% @teams.each do |team| %>
+<ul>
+	<li><%= team.team %></li>
+</ul>
+<% end %>
+
+
+<%= link_to 'Edit', edit_sport_path(@sport) %> |
+<%= link_to 'Back', sports_path %>

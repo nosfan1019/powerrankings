@@ -1,0 +1,12 @@
+<h2>Hello Ryan</h2>
+
+<table>
+	<% @weighted.each do |r| %>
+	<tr>
+		<td><%= r.sql_team %></td>
+		<!-- <td><%= r.sql_sport %></td> -->
+		<td><%= number_to_percentage(r.sql_rank) %></td>
+	</tr>
+	<% end %>
+</table>
+

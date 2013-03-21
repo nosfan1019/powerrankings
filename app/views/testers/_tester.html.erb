@@ -1,0 +1,7 @@
+<% @testers.each do |test| %>
+<tr>
+	<td><%= test.name %></td>
+	<td><%= test.num %></td>
+  	<td><%= link_to 'xxx', test, method: :delete %></td>
+</tr>
+<% end %>

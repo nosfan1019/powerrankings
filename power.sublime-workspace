@@ -1,0 +1,388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin: margin: T R B L"
+			],
+			[
+				"padding",
+				"padding: padding: all"
+			],
+			[
+				"cla",
+				"cla: class .. < ParentClass .. initialize .. end"
+			],
+			[
+				"slt",
+				"slt: stylesheet_link_tag"
+			],
+			[
+				"end",
+				"end: end (ERB)"
+			],
+			[
+				"aftc",
+				"aftc: after_create"
+			],
+			[
+				"con",
+				"con: Create controller class"
+			],
+			[
+				"font",
+				"font: font: size font"
+			],
+			[
+				"background",
+				"background: background-attachment: scroll/fixed"
+			],
+			[
+				"optio",
+				"option"
+			],
+			[
+				"p",
+				"p"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/browser.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ft",
+				"FTPSync: Browse from current folder"
+			],
+			[
+				"package set",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"user",
+				"Preferences: User Key Bindings"
+			]
+		],
+		"width": 620.0
+	},
+	"console":
+	{
+		"height": 255.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rgrush/NS/zzz/power/app/models/average.rb",
+		"/Users/rgrush/NS/zzz/power/app/views/average/index.html.erb",
+		"/Users/rgrush/NS/zzz/power/app/controllers/average_controller.rb",
+		"/Users/rgrush/NS/zzz/power/script/test3.rb",
+		"/Users/rgrush/NS/zzz/power/app/views/rankings/index.html.erb",
+		"/Users/rgrush/NS/zzz/power/config/routes.rb",
+		"/Users/rgrush/NS/zzz/power/app/controllers/application_controller.rb",
+		"/Users/rgrush/NS/zzz/power/app/views/teams/index.html.erb",
+		"/Users/rgrush/NS/zzz/power/app/controllers/teams_controller.rb",
+		"/Users/rgrush/NS/zzz/power/script/test2.rb",
+		"/Users/rgrush/NS/zzz/power/app/views/home/index.html.erb",
+		"/Users/rgrush/NS/zzz/power/app/assets/javascripts/teams.js.coffee",
+		"/Users/rgrush/NS/zzz/power/Gemfile",
+		"/Users/rgrush/NS/zzz/power/script/mech.rb",
+		"/Users/rgrush/NS/zzz/power/app/assets/javascripts/application.js",
+		"/Users/rgrush/NS/zzz/power/app/assets/stylesheets/application.css",
+		"/Users/rgrush/NS/zzz/power/script/test.rb",
+		"/Users/rgrush/NS/zzz/power/script/test.2rb.rb",
+		"/Users/rgrush/NS/zzz/power/app/models/ranking.rb",
+		"/Users/rgrush/NS/zzz/power/script/hash.rb",
+		"/Users/rgrush/NS/zzz/power/app/views/teams/_form.html.erb",
+		"/Users/rgrush/NS/zzz/power/app/models/team.rb",
+		"/Users/rgrush/NS/zzz/power/lib/tasks/setup.thor",
+		"/Users/rgrush/NS/zzz/power/script/array.rb",
+		"/Users/rgrush/NS/zzz/nov/wp-content/plugins/revslider/inc_php/functions.class.php",
+		"/Users/rgrush/NS/zzz/nokogiri/blah.rb",
+		"/Users/rgrush/NS/zzz/nov/wp-content/themes/Minh/style.css",
+		"/Users/rgrush/NS/zzz/nov/wp-content/plugins/tubepress/src/main/web/css/tubepress.css",
+		"/Users/rgrush/NS/zzz/nov/wp-content/themes/Minh/css/custom.php",
+		"/Users/rgrush/NS/zzz/nov/wp-content/themes/Minh/template-full-width.php",
+		"/Users/rgrush/NS/zzz/nov/wp-content/plugins/twitter-widget-pro/wp-twitter-widget.php",
+		"/Users/rgrush/NS/zzz/nov/wp-content/themes/Minh/template-kids.php",
+		"/Users/rgrush/NS/zzz/nov/wp-content/plugins/mailchimp-widget/lib/ns_widget_mailchimp.class.php",
+		"/Users/rgrush/NS/zzz/nov/wp-content/plugins/youtube-sidebar-widget/youtube-sidebar-widget.php",
+		"/private/var/folders/wz/vjvws_9d1pv8s_lz3j0h901h0000gn/T/68ec4541-fb01-418f-9c67-dde10a524435/test/wp-content/themes/Minh/style.css",
+		"/Users/rgrush/NS/zzz/nov/wp-content/themes/Minh/css/menu.css",
+		"/Users/rgrush/NS/zzz/nov/wp-content/themes/Minh/header.php",
+		"/Users/rgrush/NS/zzz/nov/wp-content/themes/Minh/js/icarousel2.js",
+		"/Users/rgrush/NS/zzz/nov/wp-content/themes/Minh/css/base.css",
+		"/Users/rgrush/NS/zzz/nov/wp-content/themes/Minh/css/icarousel.css",
+		"/Users/rgrush/NS/zzz/nov/wp-content/themes/Minh/js/lightbox.js",
+		"/Users/rgrush/NS/zzz/nov/wp-content/themes/Minh/css/lightbox.css",
+		"/Users/rgrush/NS/zzz/nov/wp-content/themes/Minh/newsletter.php",
+		"/Users/rgrush/NS/zzz/nov/wp-content/themes/Minh/template-sidebarright.php",
+		"/Users/rgrush/NS/zzz/nov/wp-content/themes/Minh/functions.php",
+		"/Users/rgrush/Desktop/2013/random/index3.html",
+		"/Users/rgrush/NS/zzz/nov/wp-includes/js/jquery/jquery.js",
+		"/Users/rgrush/NS/zzz/nov/wp-content/themes/Minh/blah.html",
+		"/Users/rgrush/NS/zzz/nov/wp-content/plugins/mailpress/mp-content/themes/_template/head.php",
+		"/private/var/folders/wz/vjvws_9d1pv8s_lz3j0h901h0000gn/T/68ec4541-fb01-418f-9c67-dde10a524435/nov/readme.html",
+		"/private/var/folders/wz/vjvws_9d1pv8s_lz3j0h901h0000gn/T/68ec4541-fb01-418f-9c67-dde10a524435/nov/wp-config-production.php",
+		"/Users/rgrush/Desktop/2013/random/index2.html",
+		"/Users/rgrush/Desktop/Dropbox/Radium UI/Ryan/index.html",
+		"/Users/rgrush/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/Users/rgrush/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/rgrush/Desktop/Dropbox/Radium UI/Ryan/todo_form.html",
+		"/Users/rgrush/Desktop/Dropbox/Radium UI/Ryan/javascript/schedule.js",
+		"/Users/rgrush/Desktop/Dropbox/Radium UI/Ryan/schedule3.html",
+		"/Users/rgrush/Desktop/Dropbox/Radium UI/Ryan/schedule4.html",
+		"/Users/rgrush/Desktop/Dropbox/Radium UI/Ryan/schedule.html",
+		"/Users/rgrush/Desktop/Dropbox/Radium UI/Ryan/javascript/reminder2.js",
+		"/Users/rgrush/NS/zzz/nov/wp-config-sample.php",
+		"/Users/rgrush/NS/zzz/nov/wp-content/themes/Minh/index.php",
+		"/Users/rgrush/NS/zzz/nov/wp-content/themes/Minh/js/custom.js",
+		"/Users/rgrush/Desktop/Dropbox/Radium UI/Ryan/meeting_form2.html",
+		"/Users/rgrush/Desktop/Dropbox/Radium UI/Ryan/meeting_form.html",
+		"/Users/rgrush/Desktop/Dropbox/Radium UI/Ryan/discussion_form.html",
+		"/Users/rgrush/Desktop/Dropbox/Radium UI/Ryan/datepicker.html",
+		"/Users/rgrush/Desktop/Dropbox/Radium UI/Ryan/trash/inline_todo.html",
+		"/Users/rgrush/Desktop/Dropbox/Radium UI/Ryan/css/master.css",
+		"/Users/rgrush/Desktop/2013/random/js/lightbox.js",
+		"/Users/rgrush/Desktop/2013/random/css/lightbox.css",
+		"/Users/rgrush/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/rgrush/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/rgrush/Library/Application Support/Sublime Text 2/Packages/Tag/Tag Package.sublime-settings",
+		"/Users/rgrush/Library/Application Support/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/Users/rgrush/Desktop/2013/random/index.html",
+		"/Users/rgrush/Desktop/2013/random/js/icarousel.js",
+		"/Users/rgrush/Desktop/2013/random/asdf.html",
+		"/Users/rgrush/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/private/var/folders/wz/vjvws_9d1pv8s_lz3j0h901h0000gn/T/e61d067c-e2c5-4eec-880c-f781fd1454e6/BIZ/wp-config.php",
+		"/Users/rgrush/NS/zzz/BIZ/readme.html",
+		"/private/var/folders/wz/vjvws_9d1pv8s_lz3j0h901h0000gn/T/e61d067c-e2c5-4eec-880c-f781fd1454e6/BIZ/moneydr/wp-content/themes/Appointment/style.css",
+		"/Users/rgrush/NS/zzz/mildred/ftpsync.settings",
+		"/Users/rgrush/NS/zzz/wordpresser/wp-content/themes/twentyeleven/style.css",
+		"/Users/rgrush/NS/zzz/wordpresser/wp-content/themes/twentytwelve/functions.php",
+		"/Users/rgrush/NS/zzz/wordpresser/wp-config.php",
+		"/Users/rgrush/NS/zzz/wordpresser/wp-config-sample.php",
+		"/Users/rgrush/NS/zzz/welcome.html",
+		"/private/var/folders/wz/vjvws_9d1pv8s_lz3j0h901h0000gn/T/e61d067c-e2c5-4eec-880c-f781fd1454e6/BIZ/moneydr/wp-content/themes/Appointment/index.php",
+		"/Users/rgrush/Library/Application Support/Sublime Text 2/Packages/FTPSync/FTPSync.sublime-settings",
+		"/private/var/folders/wz/vjvws_9d1pv8s_lz3j0h901h0000gn/T/68ec4541-fb01-418f-9c67-dde10a524435/BIZ/moneydr/wp-content/themes/Appointment/taxonomy-slider.php",
+		"/private/var/folders/wz/vjvws_9d1pv8s_lz3j0h901h0000gn/T/68ec4541-fb01-418f-9c67-dde10a524435/BIZ/moneydr/wp-config.php",
+		"/private/var/folders/wz/vjvws_9d1pv8s_lz3j0h901h0000gn/T/68ec4541-fb01-418f-9c67-dde10a524435/mymoneydr/wp-config.php",
+		"/Users/rgrush/NS/zzz/sandbox/app/views/projects/index.html.erb",
+		"/Users/rgrush/NS/zzz/sandbox/test/functional/home_controller_test.rb",
+		"/Users/rgrush/NS/zzz/sandbox/config/database.yml",
+		"/Users/rgrush/NS/zzz/sandbox/app/models/project.rb",
+		"/Users/rgrush/NS/zzz/sandbox/Gemfile",
+		"/Users/rgrush/NS/zzz/sandbox/config/routes.rb",
+		"/Users/rgrush/NS/zzz/sandbox/app/controllers/roles_controller.rb",
+		"/Users/rgrush/NS/zzz/sandbox/app/views/roles/_form.html.erb",
+		"/Users/rgrush/NS/zzz/sandbox/app/views/roles/edit.html.erb",
+		"/Users/rgrush/NS/zzz/sandbox/app/views/roles/new.html.erb",
+		"/Users/rgrush/NS/zzz/sandbox/app/views/roles/_role.html.erb",
+		"/Users/rgrush/NS/zzz/sandbox/app/views/shared/_includes.html.erb",
+		"/Users/rgrush/NS/zzz/sandbox/app/models/role.rb",
+		"/Users/rgrush/NS/zzz/sandbox/app/views/projects/_project.html.erb",
+		"/Users/rgrush/NS/zzz/sandbox/config/application.rb",
+		"/Users/rgrush/NS/zzz/sandbox/db/migrate/20121214063004_create_roles.rb",
+		"/Users/rgrush/NS/zzz/sandbox/app/models/person.rb",
+		"/Users/rgrush/NS/zzz/sandbox/lib/tasks/blah.rake",
+		"/Users/rgrush/NS/zzz/sandbox/lib/tasks/app.rake",
+		"/Users/rgrush/NS/zzz/sandbox/lib/tasks/asdf.rake",
+		"/Users/rgrush/NS/zzz/sandbox/db/seeds.rb",
+		"/Users/rgrush/NS/zzz/sandbox/config/environments/development.rb",
+		"/Users/rgrush/NS/zzz/sandbox/db/schema.rb",
+		"/Users/rgrush/NS/zzz/sandbox/db/migrate/20121214002603_create_people.rb",
+		"/Users/rgrush/NS/zzz/sandbox/app/models/status.rb",
+		"/Users/rgrush/NS/zzz/sandbox/app/models/post.rb",
+		"/Users/rgrush/NS/zzz/sandbox/app/helpers/people_helper.rb",
+		"/Users/rgrush/NS/zzz/sandbox/app/helpers/application_helper.rb",
+		"/Users/rgrush/NS/zzz/sandbox/db/migrate/20121214062916_create_statuses.rb",
+		"/Users/rgrush/NS/zzz/sandbox/app/helpers/projects_helper.rb",
+		"/Users/rgrush/NS/zzz/sandbox/app/views/home/index.html.erb",
+		"/Users/rgrush/NS/zzz/sandbox/app/controllers/posts_controller.rb",
+		"/Users/rgrush/NS/zzz/sandbox/app/views/layouts/application.html.erb",
+		"/Users/rgrush/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 85.0,
+		"include_history":
+		[
+			""
+		],
+		"location_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"# ",
+			"br",
+			"recent",
+			"widget",
+			"title",
+			"\n\ntitle",
+			"title",
+			"footer",
+			"hover",
+			"sfho",
+			"sfHover",
+			"sfhover",
+			"1.7",
+			"1.8",
+			"wp_head",
+			"jquery",
+			"color",
+			"img",
+			"div-bg",
+			"place",
+			"placeho",
+			"images",
+			"scroll",
+			"disqus",
+			"bread",
+			"name",
+			"auto"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 27.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"wp_head",
+				"wp-content/plugins/mailpress/mp-content/themes/_template/head.php"
+			],
+			[
+				"name",
+				"test/functional/home_controller_test.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 135.0,
+	"status_bar_visible": true
+}

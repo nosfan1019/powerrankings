@@ -1,0 +1,12 @@
+<h2>Hello Ryan</h2>
+
+<table>
+	<% @averages.each do |r| %>
+	<tr>
+		<td><%= Team.find(r[0]).team %></td>
+		<td><%= r[1].round(2) %></td>
+
+	</tr>
+	<% end %>
+</table>
+

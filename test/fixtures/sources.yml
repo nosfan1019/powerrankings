@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  publisher: MyString
+  url: MyText
+  sports_id: 1
+  scraper: MyString
+
+two:
+  publisher: MyString
+  url: MyText
+  sports_id: 1
+  scraper: MyString

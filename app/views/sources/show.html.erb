@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Publisher:</b>
+  <%= @source.publisher %>
+</p>
+
+<p>
+  <b>Url:</b>
+  <%= @source.url %>
+</p>
+
+<p>
+  <b>Sports:</b>
+  <%= @source.sport_id %>
+</p>
+
+<p>
+  <b>Scraper:</b>
+  <%= @source.scraper %>
+</p>
+
+
+<%= link_to 'Edit', edit_source_path(@source) %> |
+<%= link_to 'Back', sources_path %>

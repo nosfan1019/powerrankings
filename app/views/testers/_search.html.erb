@@ -1,0 +1,9 @@
+<%= params[:controller] + ' - ' + params[:action] %>
+
+<%= form_for @tester do |f| %>
+    <%= f.label :name %>
+    <%= f.text_field :name %><br />
+    <%= f.label :num %>
+    <%= f.number_field :num %><br />
+    <%= f.submit %>    
+<% end %>

@@ -1,0 +1,25 @@
+<h1>Listing relocates</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Team</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @relocates.each do |relocate| %>
+  <tr>
+    <td><%= relocate.name %></td>
+    <td><%= relocate.team_id %></td>
+    <td><%= link_to 'Show', relocate %></td>
+    <td><%= link_to 'Edit', edit_relocate_path(relocate) %></td>
+    <td><%= link_to 'Destroy', relocate, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Relocate', new_relocate_path %>

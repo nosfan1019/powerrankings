@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  rank: MyString
+  team_id: 1
+  sport_id: 1
+  source_id: 1
+
+two:
+  rank: MyString
+  team_id: 1
+  sport_id: 1
+  source_id: 1

@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  average: 1
+  team_id: 1
+  sports_id: 1
+
+two:
+  average: 1
+  team_id: 1
+  sports_id: 1
